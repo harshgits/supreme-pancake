@@ -1,0 +1,8 @@
+# Run these commands to create a suitable Python environment and install dependencies
+# listed in this file:
+#   conda create -n sales_forecast python=3.12
+#   conda activate sales_forecast
+#   pip install -r requirements.txt
+
+ipykernel
+u8darts==0.34.0
